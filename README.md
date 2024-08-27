@@ -1,6 +1,6 @@
-# Welcome to My GitHub 👋
+# Software & Data Engineer | DevOps | Search Architect | Deep Reinforcement Learning in AI
 
-## **Hey, I’m Ubayd!** Software & Data Engineer | DevOps | Search Architect | Deep Reinforcement Learning in AI
+## **Hey, I’m Ubayd!** Welcome to My GitHub 👋
 
 I’m a _**Techinical Specialist**_ and _**AI Enthusiast**_ living in Cape Town, South Africa, with a passion for technology, innovation, fitness, AI, and scouting. I’m also a coffee enthusiast and an active volunteer.
 
@@ -26,9 +26,9 @@ In my current role as a Technical Specialist at the University of Cape Town, I p
 
 ### **Scouting Achievements**
 Through scouting, I’ve earned several prestigious awards:
-* Springbok Badge (Highest Award for Scouts)
-* BP Award (Highest Award for Rovers)
-* Gold President’s Award (Duke of Edinburgh Award), presented by Prince Edward, Earl of Wessex, and President Zuma.
+* **Springbok Badge** (Highest Award for Scouts)
+* **BP Award** (Highest Award for Rovers)
+* **Gold President’s Award** (Duke of Edinburgh Award), presented by Prince Edward, Earl of Wessex, and President Zuma.
 I’ve represented South Africa at four international scouting events, which speaks to my dedication, hard work, and goal-driven nature.
 
 ### **Skill Set**
@@ -44,10 +44,19 @@ Throughout my career, I’ve had the privilege of working for leading companies 
 * **Telephony Switches:** Transforming leads to opportunity conversion.
 * **Education Technology:** Worked for the world’s largest ed-tech company.
 * **E-Commerce:** Contributed to Africa's leading online retail store.
+* **Higher Education:** As a Technical Specialist at UCT, I lead Python and Django development, manage critical ICT systems, and drive key projects in a complex academic environment.
+* **Corporate Integration:** Contracted to integrate multiple companies across different locations, managing the technical and business complexities of large-scale amalgamations.
+
 I’ve worked on portals, switches, dynamic API gateways, and e-commerce web-based application platforms.
 
 ### **Summary**
 As an experienced software and data engineer specializing in AI and NLP, I am dedicated to enhancing user experience through innovative solutions. With nearly a decade of expertise, I design and develop user-centric web applications from conception to refined execution, always driven by deadlines and a passion for excellence.
+
+### **Connect with Me**
+- 🌍 **Website**: [ubaydbapoo.info](https://ubaydbapoo.info/)
+- 💼 **LinkedIn**: [Ubayd Bapoo](https://www.linkedin.com/in/ubayd-bapoo-830b7033)
+- 📘 **Facebook**: [Ubayd Bapoo](https://www.facebook.com/ubayd.bapoo)
+- 📷 **Instagram**: [@ubayd.bapoo](https://www.instagram.com/ubayd.bapoo/)
 
 ### **🤝 Let's Connect! 🤝**
 I’m passionate about technology, innovation, and connecting with professionals who share interests in DevOps, Software/Data Engineering, Search Architecture, or AI. Feel free to connect, and let’s explore how our synergies can contribute to impactful endeavors!
